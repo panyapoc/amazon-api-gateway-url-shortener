@@ -74,7 +74,7 @@ Parameter GithubRepository []:
 Parameter PersonalAccessToken:
 
 ## Shows you resources changes to be deployed and requires a 'Y' to initiate deploy
-Confirm changes before deploy [y/N]: 
+Confirm changes before deploy [y/N]:
 
 ## SAM needs permission to be able to create roles to connect to the resources in your template
 Allow SAM CLI IAM role creation [Y/n]:
